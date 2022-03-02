@@ -1,5 +1,4 @@
 # NE - Natural Encryption
-This encryption library is a brand new and custom php for encrypting strings.
 
 ## Features
  - A 192-bit hash function
